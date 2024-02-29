@@ -1,5 +1,4 @@
 使用CocoStudio
-2014-2-18
 UI Editor：
 先把项目导出的json和资源文件放到TestGame项目的Resource目录中
  
